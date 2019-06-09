@@ -5,7 +5,7 @@ public class aula04Televisao {
         Controle.emparelhaTVeControle(tv);
         Controle.aumentaVolume();
         //System.out.println(tv.getVolume()); //para ver se o objeto tv criado é o mesmo que está dentro da classe ControleRemoto
-        Controle.diminuiVolume();
+        Controle.diminuiVolume();   
         Controle.aumentaCanal();
         //System.out.println(tv.getCanal()); //para ver se o objeto tv criado é o mesmo que está dentro da classe ControleRemoto
         Controle.diminuiCanal();

@@ -58,7 +58,7 @@ class Elevador {
 
     public void Sai (int qtde) {
         if (qtde > this.passageiros) {
-            System.out.println("Não há este número de passageiros dentro do elevador");
+           System.out.println("Não há este número de passageiros dentro do elevador");
         }
         else {
             this.passageiros = this.passageiros - qtde;
