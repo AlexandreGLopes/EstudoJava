@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exceptions/src"/>
+	<classpathentry kind="src" path="Faculdade"/>
+	<classpathentry kind="src" path="File e Scanner/src"/>
+	<classpathentry kind="src" path="FileReader e BufferReader/src"/>
+	<classpathentry kind="src" path="FileWriter e BufferedWriter/src"/>
+	<classpathentry kind="src" path="Funcoes String/src"/>
+	<classpathentry kind="src" path="Heranca Polimorfismo Casting/src"/>
+	<classpathentry kind="src" path="Metodos Abstratos/src"/>
+	<classpathentry kind="src" path="try-wth-resources/src"/>
+	<classpathentry kind="src" path="Vetores/src"/>
+	<classpathentry kind="output" path="Exceptions/bin"/>
+</classpath>

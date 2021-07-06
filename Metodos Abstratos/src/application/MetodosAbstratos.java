@@ -10,7 +10,7 @@ import entities.Rectangle;
 import entities.Shape;
 import entities.enums.Color;
 
-public class Program {
+public class MetodosAbstratos {
 
 	public static void main(String[] args) {
 		

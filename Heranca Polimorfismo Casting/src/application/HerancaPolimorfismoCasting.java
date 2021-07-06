@@ -7,7 +7,7 @@ import java.util.Scanner;
 import entities.Employee;
 import entities.OutsourcedEmployee;
 
-public class Program {
+public class HerancaPolimorfismoCasting {
 
 	public static void main(String[] args) {
 		
