@@ -1,6 +1,6 @@
 package application;
 
-public class Program {
+public class FuncoesStrings {
 
 	public static void main(String[] args) {
 		
